@@ -6,9 +6,6 @@
 [![Python version](https://img.shields.io/badge/Python-3.8%2B-blue)](https://pypi.org/project/techmanpy)
 [![pypi version](https://img.shields.io/badge/PyPI-v1.0-blue)](https://pypi.org/project/techmanpy)
 [![License](https://img.shields.io/badge/License-MIT-red)](https://github.com/jvdtoorn/techmanpy/blob/master/LICENSE)
-## News
-
-25.7.11: Add `Position` command for instant control mode and `Sleep` in general commands.
 
 ## What is `techmanpy`?
 
